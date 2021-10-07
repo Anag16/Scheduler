@@ -5,7 +5,7 @@ Interview Scheduler
 
 
 - Scheduler
-!["Booking an apointment"]()
+!["Booking an apointment"](https://raw.githubusercontent.com/Anag16/Scheduler/master/public/images/Scheduler.gif?token=AU4ETGWXHEJ5X3NNJRQA7F3BM6A3W)
 
 ## Setup
 
